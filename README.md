@@ -15,7 +15,7 @@ If you want to modify it, you can open the disco_elysium_label.gblabel project f
 You can download GB Label Maker here:
 
 [GB Label Maker](https://sulidsanke.itch.io/gb-label-maker)
-
+(I used the artwork created by the artist Sykine for the sticker)
 
 For the instruction manual, I used Soully's Game Boy Instruction Manual Figma Template, available here :
 
